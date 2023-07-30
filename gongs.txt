@@ -1,0 +1,33 @@
+ let items = [
+ "Normal Course Day (Long courses)", 
+ "Metta Days (Long courses)", 
+ "Final Day (Long courses)", 
+ "Normal Course Day (Short courses)", 
+ "Vipassana Day (10-day course)", 
+ "Metta Day (Short courses)", 
+ "Final Day (Short courses)", 
+ "General Service Period", 
+ "Automations Off (day 0 & 3-day courses)"
+ ]
+ // Create an array of strings for the alarm times for the first item
+    let alarmTimes = ["4:00:00", "6:30:00", "7:50:00", "9:00:00", "11:00:00", "12:50:00", "14:15:00","14:20:00", "15:30:00", "17:00:00", "17:50:00", "19:07:00", "21:00:10","22:16:10"]
+    
+ // Create an array of strings for the alarm times for the second item
+    let alarmTimes2 = ["4:00:00", "6:30:00", "7:50:00", "9:00:00", "11:00:00", "14:20:00", "15:30:00", "17:00:00", "17:50:00", "19:07:00"]
+    
+ // Create an array of strings for the alarm times for the third item
+    let alarmTimes3 = ["5:30:00","9:20:00", "11:45:00", "14:20:00", "17:00:00", "17:50:00"]
+    
+ // Create an array of strings for the alarm times for the forth item
+    let alarmTimes4 = ["4:00:00","4:20:00", "6:30:10", "7:50:00", "9:07:00", "11:00:00", "12:50:00", "14:15:00", "14:22:00", "15:37:00", "17:00:00", "17:50:00", "19:07:00"]
+    
+ // Create an array of strings for the alarm times for the Vipassana day item
+    let alarmTimesVip = ["4:00:00","4:20:00", "6:30:10", "7:50:00", "9:07:00", "11:00:00", "12:50:00", "13:45:00", "13:53:00", "15:07:00", "17:00:00", "17:50:00", "19:07:00"]
+    
+ // Create an array of strings for the alarm times for the fifth item
+    let alarmTimes5 = ["4:00:00", "4:20:00", "6:30:10", "7:50:00", "9:07:00", "11:00:00", "14:20:00", "15:55:00", "17:00:00", "17:50:00", "19:07:00"]
+    
+ // Create an array of strings for the alarm times for the sixth item
+    let alarmTimes6 = ["4:00:00", "4:20:00", "9:20:00", "11:45:00", "14:20:00", "17:00:00", "17:50:00"]
+ // Create an array of strings for the alarm times for the seventh item
+    let alarmTimes7 = ["6:30:10", "7:50:00", "11:45:00", "14:20:00", "17:00:00", "17:50:00"]
